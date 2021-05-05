@@ -612,7 +612,10 @@
     <Compile Include="Assets\Clases\Creación de cubo 240321\D8.cs" />
     <Compile Include="Assets\Clases\Creación de cubo 240321\RubickCreator.cs" />
     <Compile Include="Assets\Clases\Cursed Exam\Construcciín de figura\Cabeza.cs" />
+    <Compile Include="Assets\Clases\Cursed Exam\Construcciín de figura\Dientes.cs" />
     <Compile Include="Assets\Clases\Cursed Exam\Construcciín de figura\DimencionalHead.cs" />
+    <Compile Include="Assets\Clases\Cursed Exam\Construcciín de figura\Hombros.cs" />
+    <Compile Include="Assets\Clases\Cursed Exam\Construcciín de figura\Ojos.cs" />
     <Compile Include="Assets\Clases\Rotación\CubeRotation.cs" />
     <Compile Include="Assets\Clases\matices 23.03.21\matriz.cs" />
     <Compile Include="Assets\TheCalculadora.cs" />
